@@ -56,11 +56,11 @@ body {
   opacity: 0;
   pointer-events: none;
 
-  bottom: 50px;
+
   top: 20px;
   right: 100px;
   width: 100%;
-  max-width: 420px;
+  max-width: 460px;
   overflow: hidden;
   transform: scale(0.2);
   border-radius: 15px;
